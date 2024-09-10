@@ -1,11 +1,11 @@
 {
-    "name": "asantibanez/livewire-select",
+    "name": "mkuznik92/livewire-select",
     "description": "Livewire dropdown select component",
     "keywords": [
         "asantibanez",
         "livewire-select"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-select",
+    "homepage": "https://github.com/mkuznik92/livewire-select",
     "license": "MIT",
     "type": "library",
     "authors": [
